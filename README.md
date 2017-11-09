@@ -12,7 +12,7 @@
 ##### run  
     cd ~; mkdir git; cd git;
  
-    git@github.com:hoseadevops/docker-beanstalkd.git
+    git clone git@github.com:hoseadevops/docker-beanstalkd.git
     
     cd docker-beanstalkd
     
