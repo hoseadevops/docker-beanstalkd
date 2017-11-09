@@ -1,9 +1,9 @@
 # docker-beanstalkd
 
 ##### os
-    os x yosemite 10.13.1 dev
+    os x yosemite 10.13.1
     
-##### dependent on
+##### dependent on docker
     Version 17.09.0-ce-mac35 (19611)
     Channel: stable
     a98b7c1b7c
